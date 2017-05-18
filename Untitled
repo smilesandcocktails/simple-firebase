@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1 id="firebase-title"> </h1>
+    <p>
+    </p>
+
+<label>
+  Login
+  <input id="login-email" type="text" placeholder="email">
+  <input id="login-password" type="password" placeholder="password">
+</label>
+<button>Login</button>
+<script src="https://www.gstatic.com/firebasejs/4.0.0/firebase.js"></script>
+
+    </body>
+  </html>
